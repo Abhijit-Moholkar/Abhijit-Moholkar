@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Abhijit-Moholkar
-- 👀 I’m interested in Python, Data Science, Matplotlib, Seaborn, Machine Learning, Deep Learning
-- 🌱 I’m currently learning Machine Learning and Deep Learning
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m enthusiast for Data Science, and Machine Learning
+- 🌱 I’m passionate to work on Python, Data Science, Machine Learning, and Deep Learning
+- 💞️ I’m looking to collaborate on Python, Data Science, Machine Learning, and Deep Learning
+- ✨ It's my pleasure to help other if anyone need it
 - 📫 How to reach me through email- abhijit.moholkar8@gmail.com, Mob. +918805543165
 
 <!---
